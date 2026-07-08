@@ -1,0 +1,2 @@
+# Crime-Analysis-and-Interactive-Dashboard-Using-Tableau
+Developed an interactive Tableau dashboard to analyze crime records, uncovering crime patterns, geographical hotspots, temporal trends, and arrest-related insights. Created multiple dashboards for overall crime statistics, time-based analysis, trend analysis, and comparative analysis to support data-driven decision-making and prevention strategies.
