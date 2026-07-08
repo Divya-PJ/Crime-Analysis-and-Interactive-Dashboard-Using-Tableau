@@ -72,11 +72,11 @@ Crime Type vs Arrest
 
 ### Trend Analysis Dashboard
 
-![Dashboard 3](Images/Crime-Analysis-Dashboard–Trend-Analysis.png)
+![Dashboard 3](Images/Crime-Analysis-Dashboard-Trend-Analysis.png)
 
 ### Comparative Analysis Dashboard
 
-![Dashboard 4](Images/Crime-Analysis-Dashboard–Comparative-Analysis.png)
+![Dashboard 4](Images/Crime-Analysis-Dashboard-Comparative-Analysis.png)
 
 ## Business Impact
 
