@@ -62,7 +62,21 @@ Crime Type vs Arrest
 
 ## Dashboard Preview
 
-(Add screenshots of all four dashboards here)
+### Overall Crime Statistics Dashboard
+
+![Dashboard 1](Images/Overall Crime Statistics Dashboard.png)
+
+### Time Period Analysis Dashboard
+
+![Dashboard 2](Images/Time Period Analysis Dashboard.png)
+
+### Trend Analysis Dashboard
+
+![Dashboard 3](Images/Crime Analysis Dashboard – Trend Analysis.png)
+
+### Comparative Analysis Dashboard
+
+![Dashboard 4](Images/Crime Analysis Dashboard – Comparative Analysis.png)
 
 ## Business Impact
 
